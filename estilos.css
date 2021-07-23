@@ -1,0 +1,18 @@
+body
+{
+ padding: 16px;   
+ margin: 45px;
+font-size: 24px;
+font-family:fantasy;
+background-image: url(https://i.pinimg.com/originals/cd/b5/16/cdb5162d5c764c4a4ae523c87dab55d4.jpg);
+background-repeat: no-repeat ;
+background-size: auto;
+color: white;
+}
+
+nav
+{
+  background-color: white;  
+  padding: 0px;
+  color: rgb(50, 140, 243);
+}
